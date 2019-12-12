@@ -1,0 +1,72 @@
+ls
+	-a gizli dosya dizinler dahil hepsini getir
+	-l güzel bir liste şeklinde getirir
+	-R alt dizinlerinide gösterir
+rm
+rmdir
+pwd
+whoami
+ping
+alias
+cat
+less
+cd
+chmod
+chown
+curl
+df
+diff
+echo
+exit
+find
+	d dizin aramaları için
+	-name dosyaismi, dosyaismi bulacağını söyler
+	--delete bulduklarını siler
+	-perm 777, 777 nolu izinli dosyaları arar
+	-type f | d, tipinin ne olacağını söyler(f file, d directory)
+finger
+free
+grep
+groups
+head
+	-n baştan kaç satırı göstereceğini söyler. Varsayılanı 10 dur
+history
+kill
+man
+mv
+passwd
+ps
+	-u x : x isimli prosessleri getirir
+shutdown
+	now
+	-c iptal etmek için
+mkdir
+	-p : alt dizinleride oluşturmak için kullanılır
+ssh
+sudo
+tail
+	-n sondan kaç satırı göstereceği söyler. Varsayılanı 10 dur
+tar
+	-f dosya ismi ne olacağı
+	-c oluşturmak için kullanılacağı
+	-z gzip dosyaları için
+	-j bzip2 dosyaları için
+	-x ayıklamak için
+top
+uname
+	-a herşeyi gösteren seçenek
+	-s kernelin tipini gösteren seçenek
+	-r kernel releasesini gösteren seçenek
+	-v kernel versionu gösteren seçenek
+w
+touch
+cp
+locate
+du
+zip
+unzip
+hostname
+seq
+	-sx x ayıraçlı yapar. Varsayılanı \n dir
+	-f "%02g", formatlı yapar
+	-w düzenli bir şekilde yapar.
