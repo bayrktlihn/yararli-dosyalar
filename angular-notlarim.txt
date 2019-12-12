@@ -1,0 +1,6 @@
+npm install -g @angular/cli
+npm install -g typescript
+ng new proje-adi
+ng generate component component-adi
+ng class class-adi
+ng generate service servis-adi
