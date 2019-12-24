@@ -13,3 +13,6 @@ sudo dpkg --install file-name.deb
 
 ### install chrome
 sudo apt install ./file-name.deb
+
+### install vscode
+sudo apt install ./file-name.deb
