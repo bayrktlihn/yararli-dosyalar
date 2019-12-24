@@ -9,7 +9,7 @@ npm install -g @angular/cli
 
 ### install amazon corretto
 sudo apt-get update && sudo apt-get install java-common
-sudo dpkg --install ***.deb
+sudo dpkg --install file-name.deb
 
 ### install chrome
 sudo apt install ./file-name.deb
