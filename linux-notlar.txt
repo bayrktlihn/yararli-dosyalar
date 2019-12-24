@@ -75,4 +75,4 @@ service
 	status servisin mevcut durumu için
 	start servisi başlatmak için
 	restart servisi yeniden başlatmak için
-where
+which
