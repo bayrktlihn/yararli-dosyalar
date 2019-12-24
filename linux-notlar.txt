@@ -70,3 +70,8 @@ seq
 	-sx x ayıraçlı yapar. Varsayılanı \n dir
 	-f "%02g", formatlı yapar
 	-w düzenli bir şekilde yapar.
+service
+	stop servisi durdmak için
+	status servisin mevcut durumu için
+	start servisi başlatmak için
+	restart servisi yeniden başlatmak için
