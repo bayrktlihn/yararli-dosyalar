@@ -16,3 +16,12 @@ sudo apt install ./file-name.deb
 
 ### install vscode
 sudo apt install ./file-name.deb
+
+
+### install mysql lastest version
+download mysql-apt-config_***.deb from mysql sites
+sudo dpkg -i mysql-apt-confi_***.deb
+sudo apt update
+sudo apt install mysql-server
+
+
