@@ -5,3 +5,8 @@ source ~/.bashrc
 nvm install --lts
 npm install -g typescript
 npm install -g @angular/cli
+
+
+### install amazon corretto
+sudo apt-get update && sudo apt-get install java-common
+sudo dpkg --install ***.deb
