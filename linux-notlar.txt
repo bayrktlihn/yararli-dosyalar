@@ -89,3 +89,5 @@ sort
 	-u unique yani benzersiz olanları getirir
 	-k kaçıncı columa göre sıralayacağı
 	-M month yani aya göre sıralama
+gzip
+gunzip
