@@ -27,12 +27,15 @@ find
 finger
 free
 grep
+	-c count yani kaç tane olduğunu gösterir
+	-i ignore case yani büyük küçük farketmezsizin eşleştir.
 groups
 head
 	-n baştan kaç satırı göstereceğini söyler. Varsayılanı 10 dur
 history
 kill
 man
+	-k 
 mv
 passwd
 ps
@@ -42,6 +45,8 @@ shutdown
 	-c iptal etmek için
 mkdir
 	-p : alt dizinleride oluşturmak için kullanılır
+wc
+	-l : line yani kaç satır olduğunu gösterir
 ssh
 sudo
 tail
@@ -76,3 +81,9 @@ service
 	start servisi başlatmak için
 	restart servisi yeniden başlatmak için
 which
+sort
+	-n number yani sayılar için
+	-r reverse yani tersine çevirir
+	-u unique yani benzersiz olanları getirir
+	-k kaçıncı columa göre sıralayacağı
+	-M month yani aya göre sıralama
