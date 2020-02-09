@@ -57,6 +57,8 @@ tar
 	-z gzip dosyaları için
 	-j bzip2 dosyaları için
 	-x ayıklamak için
+	-t bir arşivin içeriğini listeler
+	-v işlenen dosyaları ayrıntılı bir şekilde listeler. (verbose)
 top
 uname
 	-a herşeyi gösteren seçenek
