@@ -11,6 +11,7 @@ alias
 cat
 less
 cd
+file
 chmod
 chown
 curl
@@ -91,3 +92,5 @@ sort
 	-M month yani aya göre sıralama
 gzip
 gunzip
+bzip2
+bunzip2
