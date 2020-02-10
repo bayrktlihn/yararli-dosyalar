@@ -94,3 +94,7 @@ gzip
 gunzip
 bzip2
 bunzip2
+crontab
+	-e
+lsb_release
+	-a
