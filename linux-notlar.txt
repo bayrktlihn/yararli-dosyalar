@@ -66,6 +66,7 @@ uname
 	-s kernelin tipini gösteren seçenek
 	-r kernel releasesini gösteren seçenek
 	-v kernel versionu gösteren seçenek
+	-m 
 w
 touch
 cp
@@ -98,3 +99,15 @@ crontab
 	-e
 lsb_release
 	-a
+apt-cache
+	search
+	show
+apt-get
+	update cachelerimizi günceller.
+	upgrade sistemdeki tüm yazılımları yükseltir.
+	source
+	remove
+	purge
+	autoremove: istenmeye bağımlılıkları siler
+	clean: tüm sıkıştırılmış paket arşivleri siler
+	autoclean
