@@ -17,7 +17,7 @@
 * Ögrenci daha önce aldıklarını ögrenmek veya merak etmek isteyebilir. Bundan dolayı ögrenci kendi sayfasında bunları listeli bir şekilde görüntüleyebilir. Bunun için ögrenci o ekrana gelir. Bu ekranda satın aldıkların listesi sayfalama şeklinde gelmektedir.
 
 * Kabul Kriterlerim
-  * maksimum 1 yıl geçmiş satın aldıklarını görüntüleyebilsin.
+  * maksimum 1 yıl geçmiş satın alınanları görüntüleyebilsin.
   * her sayfa 5lerli elemanlar şeklinde gösterilsin.
   * En son satın aldığı ilk sıraya gelecek şekilde gösterilsin.
   
