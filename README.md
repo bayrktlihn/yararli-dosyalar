@@ -1,20 +1,22 @@
 # yararli-dosyalar
 
-# US01 - Kullanıcı olarak, sisteme geçerli bir kullanıcı adı ve parolayla giriş yapabilmeliyim.
-# US02 - Sistem yöneticisi olarak, öğrencilere yeni kart tanımlayabilmeliyim.
-# US03 - Öğrenci olarak günlük yemek listesini görüntüleyebilmeliyim.
-# Öğrenci olarak bakiyemi görüntüleyebilmeliyim
-# Öğrenci olarak kartıma bakiye yükleyebilmeliyim
-# Sistem yöneticisi olarak günlük yemek listesi girişi yapabilmeliyim.
-# Sistem yöneticisi olarak yemek kataloğu oluşturabilmeliyim.
-# sistem yöneticisi olarak, öğrencilere ait kartları görüntüleyebilmeliyim.
-# öğrenci olarak, çalınan ya da kayıp kartım için kart iptali isteyebilmeliyim.
-# ögrenci olarak kartımın sifresini değiştirebilmeliyim
-# ögrenci olarak satın aldıklarımı görüntüleyebilmeliyim
-# ögrenci olarak yemek alabilmeliyim
-# Sistem yöneticisi olarak ögrencinin aldığı yemeği iptal edebilmeliyim
-# Sistem yöneticisi olarak ögrenci kart geçerlilik süresini güncelleyebilmeliyim
-# sistem yöneticisi olarak ögrencilere burs verebilmeliyim
+# User Stories
+
+## US01 - Kullanıcı olarak, sisteme geçerli bir kullanıcı adı ve parolayla giriş yapabilmeliyim.
+## US02 - Sistem yöneticisi olarak, öğrencilere yeni kart tanımlayabilmeliyim.
+## US03 - Öğrenci olarak günlük yemek listesini görüntüleyebilmeliyim.
+## Öğrenci olarak bakiyemi görüntüleyebilmeliyim
+## Öğrenci olarak kartıma bakiye yükleyebilmeliyim
+## Sistem yöneticisi olarak günlük yemek listesi girişi yapabilmeliyim.
+## Sistem yöneticisi olarak yemek kataloğu oluşturabilmeliyim.
+## sistem yöneticisi olarak, öğrencilere ait kartları görüntüleyebilmeliyim.
+## öğrenci olarak, çalınan ya da kayıp kartım için kart iptali isteyebilmeliyim.
+## ögrenci olarak kartımın sifresini değiştirebilmeliyim
+## ögrenci olarak satın aldıklarımı görüntüleyebilmeliyim
+## ögrenci olarak yemek alabilmeliyim
+## Sistem yöneticisi olarak ögrencinin aldığı yemeği iptal edebilmeliyim
+## Sistem yöneticisi olarak ögrenci kart geçerlilik süresini güncelleyebilmeliyim
+## sistem yöneticisi olarak ögrencilere burs verebilmeliyim
 
 # Detaylı
 
@@ -30,7 +32,7 @@
   * Eski parola doğru girilmelidir.
   * Yeni şifre ile onayladığım yeni şifre alanların değerleri eşleşmelidir.
   
-# ögrenci olarak satın aldıklarımı görüntüleyebilmeliyim
+## ögrenci olarak satın aldıklarımı görüntüleyebilmeliyim
 
 * Ögrenci daha önce aldıklarını ögrenmek veya merak etmek isteyebilir. Bundan dolayı ögrenci kendi sayfasında bunları listeli bir şekilde görüntüleyebilir. Bunun için ögrenci o ekrana gelir. Bu ekranda satın aldıkların listesi sayfalama şeklinde gelmektedir.
 
@@ -39,7 +41,7 @@
   * her sayfa beşerli elemanlar şeklinde gösterilsin.
   * En son satın aldığı ilk sıraya gelecek şekilde gösterilsin.
   
-# ögrenci olarak yemek alabilmeliyim
+## ögrenci olarak yemek alabilmeliyim
 
 * Yemekhanenin ögrenci kartını okuyabildiği bir makinesi bulunmaktadır. Ögrenci yemekhaneye gelerek sisteme kartını okutur. Bu cihaz ögrenci karttan kullanıcı adini alabiliyor. Ve buna göre satın alma işlemi gerçekleşiyor. 
 
@@ -52,7 +54,7 @@
   * maksimum günlük 3 yemek alabilir.
   * satın alınanlara eklenmeli
   
-# Sistem yöneticisi olarak ögrencinin aldığı yemeği iptal edebilmeliyim
+## Sistem yöneticisi olarak ögrencinin aldığı yemeği iptal edebilmeliyim
 
 * Ögrenci olarak bir yemek satın alınır. Ve daha sonra yanlışlıkla bir tane daha satın alır ve bunu iptal edilmesini istiyor. Sistem yöneticisi ögrencinin bu satın aldığı yemeği yemediğinden emin ise silme süreci başlar. Bunun için sistem yöneticisi yemeği iptal edeceği ekrana gelir. Burada kullanıcı kullanici adi alanını girerek(bir cihaza kartı okutarakta girebilir) satın aldığı yemeği siler.
 
@@ -64,7 +66,7 @@
   * Sadece öğrencinin aldığı son yemek iptal edilebilir.
   * Sistem yöneticisi aynı kullanıcı adına sahip aynı gün sadece 1 kez iptal işlemi gerçekleştirebilir.
   
-# Sistem yöneticisi olarak ögrenci kart geçerlilik süresini güncelleyebilmeliyim
+## Sistem yöneticisi olarak ögrenci kart geçerlilik süresini güncelleyebilmeliyim
 
 * Kartların geçerlilik süresi 1 dönem kadardır. 1 dönem geçen kartlar bloke olmaktadır. Bu nedenle sistem yönetici bu kartı aktif hale getirmesi gerekir. O yüzden ögrenci kartı geçerlilik süresini otomatik 1 dönem daha aktif halde güncelleyebilmelidir. Bunun için sistem yöneticisi kart günceleme sayfasına gelir. Burada 1 öğrenci kullanıcı adi, kimlik numarası ve ad soyad girebileceği alanlar ve ögrenci belgesini yükleyebileceği alan bulunur.
 
@@ -73,7 +75,7 @@
   * Kartın geçerlilik tarihi bitmiş olmalı
   * Okuldan alınan islak imzalı ögrenci belgesi veya edevleten alınan ögrenci belgesi sisteme eklenmeli
  
-# sistem yöneticisi olarak ögrencilere burs verebilmeliyim
+## sistem yöneticisi olarak ögrencilere burs verebilmeliyim
 
 * Ögrenciler bursa başvururlar. Bu bursdan gerekli belgeleri teslim ederek sistem yöneticisine başvurur. Sistem yöneticisi her dönem bir dönem geçerli olmak süretiyle bursa başvuran bazı ögrencileri şeçer. Bu kişilere 1 gün 1 yemek hakkı kazandırır.
 
@@ -84,7 +86,7 @@
   * 20 tanesi ise farklı bölümlerden birer tane ve en iyi çalışkan(1. sınıf için bir önceki ögrenim diploma notu, 2 ve sonrası için şuana kadarki ortalaması ) ögrencilerden oluşmalıdır
   * 100 kişi farklı kişiler olmalıdır.
   
-# ögrenci olarak burs başvurusu yapabilmeliyim
+## ögrenci olarak burs başvurusu yapabilmeliyim
 
 * Burs butonu burs ekranına geçmek içindir. Bu burs butonu her dönem başında aktif olmaktadır. Ögrenciler bu burs butonu aktif olduğunda burs ekranına gelir. Burada ailede aylık kaç lira maaş geldigi, kaç kardeş, başarı notu ve bunu ispat eden belge ve aylık maaşları ispatladığı belge alanları girilerek burs başvurusu gerçekleştirilir.
 
