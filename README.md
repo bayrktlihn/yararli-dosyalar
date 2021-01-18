@@ -18,7 +18,7 @@
 
 * Kabul Kriterlerim
   * maksimum 1 yıl geçmiş satın alınanları görüntüleyebilsin.
-  * her sayfa 5lerli elemanlar şeklinde gösterilsin.
+  * her sayfa beşerli elemanlar şeklinde gösterilsin.
   * En son satın aldığı ilk sıraya gelecek şekilde gösterilsin.
   
 # ögrenci olarak yemek alabilmeliyim
