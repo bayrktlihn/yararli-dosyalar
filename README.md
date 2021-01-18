@@ -5,8 +5,8 @@
 * Ögrenci sifre değiştirme ekranına gelir. Bu ekranda kullanici adi, eski sifre, yeni sifre, yeni sifreyi onaylabildiğim alanlar bulunmaktadır. Kullanici adi alanı giriş yaptığı için degeri otomatik girilmiştir. Bu alanlara göre sifre değişir.
 
 * Kabul Kriterlerim
-  * Kullanici adi alanı değişemez.
-  * Geçerli bir kullanici adi olmalıdır.
+	* Kullanici adi alanı değişemez.
+	* Geçerli bir kullanici adi olmalıdır.
 	* son kullandığım 2 şifre yeni şifre olamaz.
 	* En az 8 harfden oluşmalıdır. En az 1 adet sayı, özel -karakter ve harf olmalıdır.
 	* Eski parola doğru girilmelidir.
