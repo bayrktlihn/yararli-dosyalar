@@ -1,16 +1,34 @@
 # yararli-dosyalar
 
+# US01 - Kullanıcı olarak, sisteme geçerli bir kullanıcı adı ve parolayla giriş yapabilmeliyim.
+# US02 - Sistem yöneticisi olarak, öğrencilere yeni kart tanımlayabilmeliyim.
+# US03 - Öğrenci olarak günlük yemek listesini görüntüleyebilmeliyim.
+# Öğrenci olarak bakiyemi görüntüleyebilmeliyim
+# Öğrenci olarak kartıma bakiye yükleyebilmeliyim
+# Sistem yöneticisi olarak günlük yemek listesi girişi yapabilmeliyim.
+# Sistem yöneticisi olarak yemek kataloğu oluşturabilmeliyim.
+# sistem yöneticisi olarak, öğrencilere ait kartları görüntüleyebilmeliyim.
+# öğrenci olarak, çalınan ya da kayıp kartım için kart iptali isteyebilmeliyim.
 # ögrenci olarak kartımın sifresini değiştirebilmeliyim
+# ögrenci olarak satın aldıklarımı görüntüleyebilmeliyim
+# ögrenci olarak yemek alabilmeliyim
+# Sistem yöneticisi olarak ögrencinin aldığı yemeği iptal edebilmeliyim
+# Sistem yöneticisi olarak ögrenci kart geçerlilik süresini güncelleyebilmeliyim
+# sistem yöneticisi olarak ögrencilere burs verebilmeliyim
+
+# Detaylı
+
+## ögrenci olarak kartımın sifresini değiştirebilmeliyim
 
 * Ögrenci sifre değiştirme ekranına gelir. Bu ekranda kullanici adi, eski sifre, yeni sifre, yeni sifreyi onaylabildiğim alanlar bulunmaktadır. Kullanici adi alanı giriş yaptığı için degeri otomatik girilmiştir. Bu alanlara göre sifre değişir.
 
 * Kabul Kriterlerim
-	* Kullanici adi alanı değişemez.
-	* Geçerli bir kullanici adi olmalıdır.
-	* son kullandığım 2 şifre yeni şifre olamaz.
-	* En az 8 harfden oluşmalıdır. En az 1 adet sayı, özel -karakter ve harf olmalıdır.
-	* Eski parola doğru girilmelidir.
-	* Yeni şifre ile onayladığım yeni şifre alanların değerleri eşleşmelidir.
+  * Kullanici adi alanı değişemez.
+  * Geçerli bir kullanici adi olmalıdır.
+  * son kullandığım 2 şifre yeni şifre olamaz.
+  * En az 8 harfden oluşmalıdır. En az 1 adet sayı, özel -karakter ve harf olmalıdır.
+  * Eski parola doğru girilmelidir.
+  * Yeni şifre ile onayladığım yeni şifre alanların değerleri eşleşmelidir.
   
 # ögrenci olarak satın aldıklarımı görüntüleyebilmeliyim
 
